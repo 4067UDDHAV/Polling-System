@@ -10,23 +10,17 @@ This repository contains the complete code for polling application built in MERN
 - Viewing results in graphical format
 
 ## Installation
-1. Clone the repository
-```
-git clone https://github.com/shreyavaidya2311/polling-app-g27.git
-```
-
-2. Installing dependencies
+1. Installing dependencies
 ```
 npm i
 cd backend & npm i
 ```
-
-3. Run the frontend (http://localhost:3000/)
+2. Run the frontend (http://localhost:3000/)
 ```
 npm start
 ```
 
-4. Run the backend
+3. Run the backend
 ```
 cd backend
 npm run server
